@@ -1,2 +1,2 @@
-# fc-game-day-controller
-Public repository for FanConnect Game Day Controller releases
+# fc-show-controller
+Public repository for FanConnect Show Controller releases
